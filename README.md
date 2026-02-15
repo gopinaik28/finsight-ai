@@ -245,7 +245,8 @@ This software is for **educational and informational purposes only**. It is **no
 
 For questions, issues, or suggestions:
 - Open an issue on GitHub
-- Email: your.email@example.com
+- Email: gopidhanavath1@gmail.com
+  
 
 ---
 
