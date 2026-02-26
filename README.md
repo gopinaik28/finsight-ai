@@ -218,9 +218,7 @@ Contributions are welcome! Areas for enhancement:
 
 ---
 
-## 📝 License
 
-MIT License - see [LICENSE](LICENSE) file
 
 ---
 
